@@ -1,0 +1,43 @@
+body
+	{
+	baground:grey;
+	}
+.content
+{
+	mmax-width: device-width;
+}
+.left {
+        position: absolute;
+        left: 0px;
+        width: 25%;
+	height: auto;
+        padding: 10px;
+	img-align: center; 
+	font-family: courier;
+	background-color: #F8F8F8;
+}
+p
+{
+	font-size: 100%;
+}
+img
+{
+	display: block;
+	margin-left: 80px;
+	margin-right: 20px;
+}
+.right
+{
+	position:absolute;
+	right: 0px;
+	width: 70%;
+	height: auto;
+	padding 10px;
+	font-family: courier;
+}
+.para1
+{
+	font-family: courier;
+	font-size: 100%
+	
+}
